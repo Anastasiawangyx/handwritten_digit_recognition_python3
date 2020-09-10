@@ -1,0 +1,2 @@
+# handwritten_digit_recognition_python3
+由python3写的基于MNIST数据的手写数字识别网络
